@@ -7,6 +7,9 @@ A Flutter app based on the design of the Covid Tracker App, created by *Achmad R
 - API
 - Splash Screen Animation , and a lot of more..
 
+## API
+i use this API to get data : https://api.kawalcorona.com/indonesia/
+
 ## Getting Started 🚀
 
 ```shell
