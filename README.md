@@ -5,8 +5,7 @@ A Flutter app based on the design of the Covid Tracker App, created by *Achmad R
 ## Features
 - Responsive Apps
 - API
-- Splash Screen Animation
-and a lot of more..
+- Splash Screen Animation , and a lot of more..
 
 ## Getting Started 🚀
 
