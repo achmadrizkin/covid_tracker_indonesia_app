@@ -139,6 +139,7 @@ class UserNetworkPage extends StatelessWidget {
               Padding(
                 padding: const EdgeInsets.only(left: 30.0, right: 30),
                 child: Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     SizedBox(
                       height: 10,
